@@ -1,7 +1,10 @@
-title: jekyll-rtd-theme
-description: Just another documentation theme compatible with GitHub Pages
+title: ManycoreOS
+description: Manycore Operating Systems related Researches
+url: manycoreos.github.io
+baseurl: ManycoreOS
+lang: kr
 
-theme: null
+remote_theme: rundocs/jekyll-rtd-theme
 
 # debug:
 #   compress: true

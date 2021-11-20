@@ -1,13 +1,11 @@
 ---
-sort: 7
+sort: 5
 ---
 
-# This is an incredibly long caption for a long menu
+# Future Works
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
-
-{% include list.liquid all=true %}
 ```
 
 {% include list.liquid all=true %}
